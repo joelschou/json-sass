@@ -1,6 +1,6 @@
 {
   "name": "json-sass-vars",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Transform JSON into SCSS variable syntax.",
   "main": "lib/jsonSass.js",
   "bin": "bin/json-sass",
